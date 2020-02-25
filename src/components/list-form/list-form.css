@@ -1,0 +1,39 @@
+
+input{
+    color: rgb(92, 52, 1);
+    border: none;
+    outline: none;
+    font-size: 25px;
+    font-weight: bolder;
+    
+}
+
+input:first-of-type{
+    width: 280px;
+    background: transparent;
+    margin-right: 10px;
+    padding-left: 5px;
+}
+
+input:focus, input:enabled{
+    border: none;
+    outline: none;
+    background: transparent;
+    font-family: 'Italianno';
+}
+
+
+
+input[type="submit"]{
+    background-color: #7b4b27;
+    color: antiquewhite;
+    padding: 10px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-family: 'Italianno';
+}
+
+input::placeholder{
+    color: rgb(92, 52, 1);
+    font-family: 'Italianno';
+}
