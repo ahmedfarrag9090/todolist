@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/todolist/static/css/main.ecdb354b.chunk.css",
+    "main.js": "/todolist/static/js/main.dda041b4.chunk.js",
+    "main.js.map": "/todolist/static/js/main.dda041b4.chunk.js.map",
+    "runtime-main.js": "/todolist/static/js/runtime-main.6fa7f924.js",
+    "runtime-main.js.map": "/todolist/static/js/runtime-main.6fa7f924.js.map",
+    "static/js/2.c5504464.chunk.js": "/todolist/static/js/2.c5504464.chunk.js",
+    "static/js/2.c5504464.chunk.js.map": "/todolist/static/js/2.c5504464.chunk.js.map",
+    "index.html": "/todolist/index.html",
+    "precache-manifest.af6bf4710a6f38f04d4a5f828774c678.js": "/todolist/precache-manifest.af6bf4710a6f38f04d4a5f828774c678.js",
+    "service-worker.js": "/todolist/service-worker.js",
+    "static/css/main.ecdb354b.chunk.css.map": "/todolist/static/css/main.ecdb354b.chunk.css.map",
+    "static/js/2.c5504464.chunk.js.LICENSE.txt": "/todolist/static/js/2.c5504464.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/todolist/static/media/paper.111963bf.png",
+    "static/media/index.css": "/todolist/static/media/oldwallpaper1.37e35bbc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fa7f924.js",
+    "static/js/2.c5504464.chunk.js",
+    "static/css/main.ecdb354b.chunk.css",
+    "static/js/main.dda041b4.chunk.js"
+  ]
+}
