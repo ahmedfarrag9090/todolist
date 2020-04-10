@@ -31,9 +31,6 @@ class App extends Component {
         <div className="App-container">
           <Form addItem={this.addItem} />
           <Listbody items={this.state.items} removeItem={this.removeItem} />
-          <div className="enter-value display-none">
-            يا جدع اكتب حاجة انا مش ساحر !
-            </div>
         </div>
       </div>
     )

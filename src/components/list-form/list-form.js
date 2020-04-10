@@ -8,7 +8,7 @@ export default class Form extends Component{
     }
 
     handleChange = (e) => {
-        document.getElementsByClassName('enter-value')[0].classList.add('display-none')
+        e.target.style.backgroundColor = 'transparent';
         this.setState({
             [e.target.id]: e.target.value
         })
@@ -20,7 +20,7 @@ export default class Form extends Component{
         if (this.state.taskName !== '') {
 
             this.props.addItem(this.state)
-        }else{document.getElementsByClassName('enter-value')[0].classList.remove('display-none')}
+        }else{e.target.querySelector('input').style.backgroundColor = 'salmon' ;}
         this.setState({
             taskName:''
         })
